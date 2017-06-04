@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeboterLibrary_DotNET", "DeboterLibrary_DotNET\DeboterLibrary_DotNET.csproj", "{49AEAAC0-4949-4E2A-9C45-B3C99D4B703A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AEAAC0-4949-4E2A-9C45-B3C99D4B703A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AEAAC0-4949-4E2A-9C45-B3C99D4B703A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AEAAC0-4949-4E2A-9C45-B3C99D4B703A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AEAAC0-4949-4E2A-9C45-B3C99D4B703A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
